@@ -5,7 +5,7 @@
 - 🎓 Hiện tại mình là một lập trình viên 
 - 🌱 Luôn tìm tòi và học hỏi những công nghệ mới
 - 💡 Đam mê về lập trình và công nghệ
-- 🎯 Mục tiêu 2025: Đóng góp nhiều hơn cho cộng đồng mã nguồn mở
+- 🎯 Mục tiêu 2026: Đóng góp nhiều hơn cho cộng đồng mã nguồn mở
 
 ## 🛠 Kỹ năng
 <!-- Bạn có thể tùy chỉnh các huy hiệu này tại https://shields.io -->
